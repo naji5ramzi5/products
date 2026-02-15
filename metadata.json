@@ -1,0 +1,7 @@
+{
+  "name": "FreshVeggies - Grocery Delivery",
+  "description": "A premium vegetable and grocery delivery application with AI-powered meal suggestions.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
